@@ -1,5 +1,11 @@
 <h1  align="center">Netflix</h1>
 
+## Overview
+
+Maquette du site de Netflix avec React.
+
+Inspiration : https://www.netflix.com/fr/
+
 Deploiement du site : [Netflix](https://lauraphanhoang-react-comp.netlify.app/)
 <p align="center">
 <a  href="https://lauraphanhoang-react-comp.netlify.app/"><img  src="https://res.cloudinary.com/dkfawp1r9/image/upload/f_auto,q_auto/netflix-maquette"  alt="Maquette Netflix"></a>
@@ -8,11 +14,6 @@ Deploiement du site : [Netflix](https://lauraphanhoang-react-comp.netlify.app/)
 
 
 
-## Overview
-
-Maquette du site de Netflix avec React.
-
-Inspiration : https://www.netflix.com/fr/
 
 ## Consignes
 
